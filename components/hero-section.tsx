@@ -7,7 +7,7 @@ import { Button } from './ui/button'
 
 const WHATSAPP_LINK = "https://wa.me/522224276475?text=Hola%20Dr.%20Fernández%2C%20me%20gustaría%20agendar%20una%20cita."
 const PHONE_NUMBER = "tel:+522225040271"
-const VIDEO_URL = "https://res.cloudinary.com/dwrtldhxd/video/upload/v1770879193/Webinar2_qk3rdt.mp4"
+const VIDEO_URL = "https://res.cloudinary.com/dieszqcrn/video/upload/v1773946655/WhatsApp_Video_2026-03-19_at_12.43.20_PM_cbxwhl.mp4"
 
 const handleWhatsAppClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
   e.preventDefault()
